@@ -111,15 +111,15 @@
         <tr>
             <td id="txtdesc">
                 Este es el codigo fuente del blog subida a traves de github, 
-                para ir al repositorio y para mas informacion revisen este enlace <a id="enlace" href="https://github.com/EViasValdez/2522-EVV-Blog">https://github.com/EViasValdez/2522-EVV-Blog</a>
+                para ir al repositorio y para mas informacion revisen este enlace <a id="enlace" href="https://github.com/EViasValdez/2522-EV-Blog">https://github.com/EViasValdez/2522-EV-Blog</a>
             </td>
         </tr>
         <tr>
-            <td id="txtitulo">Titulo por definir</td>
+            <td id="txtitulo">Introduccion al PHP y ejercicios</td>
         </tr>
         <tr>
             <td id="txtdesc">
-                Descripcion
+                Texto por definir
             </td>
         </tr>
     </table>
