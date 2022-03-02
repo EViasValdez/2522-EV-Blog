@@ -1,1 +1,1 @@
-web: resources\views\blog public/
+web: resources/views/blog public/
