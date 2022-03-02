@@ -12,7 +12,7 @@ Aqui tengo la pagina web tipo blog que hice para una asignacion de examen, la pa
 
 **- El nombre fue creado por invento mio, fue de algun titulo que se me ocurrio.**
 
-**- De momento el sitio tiene algunos problemas, por eso sale error.**
+**- De momento el sitio tiene algunos problemas debido a algunos problemas con los deploys, por eso sale error.**
 <!----Separador de las notas---->
 
 <!----Separador---->
