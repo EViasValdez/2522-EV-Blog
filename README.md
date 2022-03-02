@@ -11,6 +11,8 @@ Aqui tengo la pagina web tipo blog que hice para una asignacion de examen, la pa
 **- Se nos pidio que hicieramos minimo tres paginas para poder hacer examen por eso las unicas secciones que funcionan son el inicio, las actualizaciones y los enlaces (pensaba hacer mas pero no pude por tiempo).**
 
 **- El nombre fue creado por invento mio, fue de algun titulo que se me ocurrio.**
+
+**- De momento el sitio tiene algunos problemas, por eso sale error.**
 <!----Separador de las notas---->
 
 <!----Separador---->
