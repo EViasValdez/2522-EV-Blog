@@ -119,7 +119,9 @@
         </tr>
         <tr>
             <td id="txtdesc">
-                Texto por definir
+                He aqui las actividades que hicimos en clases utilizando php, usando metodos 
+                orientados a objetos pudeden verlos a traves de estos enlaces
+            </a>
             </td>
         </tr>
     </table>

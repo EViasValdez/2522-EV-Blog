@@ -13,8 +13,10 @@
 <body>
     <style type="text/css">
         body{
-            background-image: url("https://static.vecteezy.com/system/resources/previews/001/975/066/large_2x/abstract-green-background-free-vector.jpg");
-            background-repeat: no-repeat;
+            background-color: #b01200;
+            opacity: 1;
+            background-size: 60px 60px;
+            background-image:  repeating-linear-gradient(to right, #050000, #050000 3px, #b01200 3px, #b01200);
         }
         header{
             padding-top: 10px;
@@ -61,11 +63,31 @@
             font-family: "Ramabhadra";
             color: white;
         }
-        #txt{
+        table{
+            margin-left: auto;
+            margin-right: auto;
+            width: 80%;
+            background-color: rgba(255, 40, 0, 0.48);
+        }
+        #txtitulo{
+            text-align: center;
+            font-weight: bolder;
+            font-family: "Saira";
+            font-size: 28px;
+            color: white;
+        }
+        #txtdesc{
             text-align: center;
             margin-left: auto;
             margin-right: auto;
             width: 80%;
+            font-weight: bold;
+            font-family: "Saira";
+            font-size: 20px;
+            color: white;
+        }
+        #enlace{
+            font-weight: bold;
             font-family: "Saira";
             font-size: 20px;
             color: white;
@@ -81,18 +103,31 @@
                 <a id="opcinavg" href="">Otros</a>
             </div>
         </header>
-        <br>
-    <p id="seccion">Inicio</p>
-    <p id="txt">
-        Sean ustedes bienvenidos a mi sitio web, en este sitio doy a conocer algunas cosas sobre el diseño,
-        ademas de alguna que otra recomendacion que quizas les pueda servir de utilidad.
-    </p>
-    <br>
-    <p id="txt">
-        Estudiante en programacion de software en la Universidad Politecnica de Tecamac, comunmente
-        envio archivos via github y puedo hacer una que otra experimentacion que puedo mostrar, me enfoco
-        en HTML, CSS, JS, Java, C# / .NET, PHP, SQL y JQuery.
-    </p>
+    <p id="seccion">Actualizaciones</p>
+    <table>
+        <tr>
+            <td id="txtitulo">Blog</td>
+        </tr>
+        <tr>
+            <td id="txtdesc">
+                Este es el codigo fuente del blog subida a traves de github, 
+                para ir al repositorio y para mas informacion revisen este enlace <a id="enlace" href="https://github.com/EViasValdez/2522-EV-Blog">https://github.com/EViasValdez/2522-EV-Blog</a>
+            </td>
+        </tr>
+        <tr>
+            <td id="txtitulo">Introduccion al PHP y ejercicios</td>
+        </tr>
+        <tr>
+            <td id="txtdesc">
+                He aqui las actividades que hicimos en las primeras clases utilizando php y usando metodos 
+                orientados a objetos pudeden verlos a traves de los links de abajo.
+                <br>
+                <a id="enlace" href="archivos/Ejercicio1.php">Ejercicio de repeticion de mensajes</a>
+                <br>
+                <a id="enlace" href="archivos/Ejercicio2.php">Utilizacion de clases con funciones</a>
+            </td>
+        </tr>
+    </table>
     <br>
 </body>
 </html>
