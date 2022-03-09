@@ -13,10 +13,7 @@
 <body>
     <style type="text/css">
         body{
-            background-color: #b01200;
-            opacity: 1;
-            background-size: 60px 60px;
-            background-image:  repeating-linear-gradient(to right, #050000, #050000 3px, #b01200 3px, #b01200);
+            background-image: url("https://img.wallpapersafari.com/desktop/1680/1050/33/58/e5NdmQ.jpg")
         }
         header{
             padding-top: 10px;
@@ -69,14 +66,7 @@
             width: 80%;
             background-color: rgba(255, 40, 0, 0.48);
         }
-        #txtitulo{
-            text-align: center;
-            font-weight: bolder;
-            font-family: "Saira";
-            font-size: 28px;
-            color: white;
-        }
-        #txtdesc{
+        #txt{
             text-align: center;
             margin-left: auto;
             margin-right: auto;
@@ -103,31 +93,14 @@
                 <a id="opcinavg" href="">Otros</a>
             </div>
         </header>
-    <p id="seccion">Actualizaciones</p>
-    <table>
-        <tr>
-            <td id="txtitulo">Blog</td>
-        </tr>
-        <tr>
-            <td id="txtdesc">
-                Este es el codigo fuente del blog subida a traves de github, 
-                para ir al repositorio y para mas informacion revisen este enlace <a id="enlace" href="https://github.com/EViasValdez/2522-EV-Blog">https://github.com/EViasValdez/2522-EV-Blog</a>
-            </td>
-        </tr>
-        <tr>
-            <td id="txtitulo">Introduccion al PHP y ejercicios</td>
-        </tr>
-        <tr>
-            <td id="txtdesc">
-                He aqui las actividades que hicimos en las primeras clases utilizando php y usando metodos 
-                orientados a objetos pudeden verlos a traves de los links de abajo.
-                <br>
-                <a id="enlace" href="archivos/Ejercicio1.php">Ejercicio de repeticion de mensajes</a>
-                <br>
-                <a id="enlace" href="archivos/Ejercicio2.php">Utilizacion de clases con funciones</a>
-            </td>
-        </tr>
-    </table>
+    <p id="seccion">Inicio</p>
+        <p id="txt">
+            Mi nombre es Eduardo Viñas Valdez estudiante de ingenieria en software en la Universidad Politecnica
+            de Tecamac.
+            Sean bienvenidos a la pagina principal de este blog, aqui les voy a mostrar algunos de mis trabajos
+            relacionados a la programacion de sitios web y software, comento y recomiendo algunas cosas 
+            que quizas les puedan ayudar o que sean de interes para esta materia.
+        </p>
     <br>
 </body>
 </html>
