@@ -106,19 +106,21 @@
     <p id="seccion">Actualizaciones</p>
     <table>
         <tr>
-            <td id="txtitulo">Prueba de utilizacion de APIs</td>
+            <td id="txtitulo">Prueba de utilizacion de APIs - 08/03/22</td>
         </tr>
         <tr>
             <td id="txtdesc">
                 Algo que realice para practicar la utilizacion de APIs fue este pequeño sitio usando datos por medio de llamadas
                 utilice una api (la cual le pertenece a sus respectivos autores) y colocando los datos dentro de una tabla, originalmente
                 queria poner el nombre de un objeto junto con su imagen respectiva pero no pude hacerlo funcionar al menos como trataba de serlo
-                en fin, el archivo se los tengo aqui (Se nececita de WinRar para poder extraerlo) 
+                en fin, el archivo se los tengo aqui (se tener instalado WinRar para poder extraerlo).
+                <br>
+                <a id="enlace" href="{{asset('archivos/PruebaAPIConLaravel')}}">PruebaAPIConLaravel.rar</a>
             </td>
         </tr>
         <tr>
         <tr>
-            <td id="txtitulo">Blog</td>
+            <td id="txtitulo">Blog - 10/02/22</td>
         </tr>
         <tr>
             <td id="txtdesc">
@@ -127,7 +129,7 @@
             </td>
         </tr>
         <tr>
-            <td id="txtitulo">Introduccion al PHP y ejercicios</td>
+            <td id="txtitulo">Introduccion al PHP y ejercicios - 30/01/22</td>
         </tr>
         <tr>
             <td id="txtdesc">
