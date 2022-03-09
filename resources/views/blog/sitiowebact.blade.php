@@ -115,7 +115,7 @@
                 queria poner el nombre de un objeto junto con su imagen respectiva pero no pude hacerlo funcionar al menos como trataba de serlo
                 en fin, el archivo se los tengo aqui (se tener instalado WinRar para poder extraerlo).
                 <br>
-                <a id="enlace" href="{{asset('archivos/PruebaAPIConLaravel')}}">PruebaAPIConLaravel.rar</a>
+                <a id="enlace" href="{{asset('archivos/PruebaAPIConLaravel.rar')}}">PruebaAPIConLaravel.rar</a>
             </td>
         </tr>
         <tr>
