@@ -28,3 +28,11 @@ Route::get('/sitiowebact', function () {
 Route::get('/sitiowebenlaces', function () {
     return view('blog.sitiowebenlaces');
 })->name('sitiowebenlaces');
+
+Route::get('/ejercicio1', function () {
+    return view('blog.archivos.ejercicio1');
+})-name('ejercicio1');
+
+Route::get('/ejercicio2', function () {
+    return view('blog.archivos.ejercicio2');
+})-name('ejercicio2');
