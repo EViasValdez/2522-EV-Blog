@@ -5,13 +5,12 @@ Aqui tengo la pagina web tipo blog que hice para una asignacion de examen, la pa
 <!----Notas---->
 **Notas:**
 **- A diferencia de otros repositorios no pondre cada archivo que va con este repositorio debido a que son muchos y podria ser demasiado.**
+
 **- Se nos pidio que hicieramos minimo tres paginas para poder hacer examen por eso las unicas secciones que funcionan son el inicio, las actualizaciones y los enlaces (pensaba hacer mas pero no pude por tiempo).**
 
 **- El nombre fue creado por invento mio, fue de algun titulo que se me ocurrio.**
 
-**- De momento el sitio tiene algunos problemas debido a algunos problemas con los deploys, por eso sale error.**
-
-**- De momento el sitio el sitio muestra errores, eso es debido a un asunto con el heroku.**
+**- Ya el sitio funciona sin muchos problemas ahora.
 <!----Separador de las notas---->
 
 <!----Separador---->
