@@ -134,9 +134,9 @@
                 He aqui las actividades que hicimos en las primeras clases utilizando php y usando metodos 
                 orientados a objetos pudeden verlos a traves de los links de abajo.
                 <br>
-                <a id="enlace" href="archivos/Ejercicio1.php">Ejercicio de repeticion de mensajes</a>
+                <a id="enlace" href="2522-EV-Blog/resources/views/blog/archivos/Ejercicio1.php">Ejercicio de repeticion de mensajes</a>
                 <br>
-                <a id="enlace" href="archivos/Ejercicio2.php">Utilizacion de clases con funciones</a>
+                <a id="enlace" href="2522-EV-Blog/resources/views/blog/archivos/Ejercicio1.php">Utilizacion de clases con funciones</a>
             </a>
             </td>
         </tr>
