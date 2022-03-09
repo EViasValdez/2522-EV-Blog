@@ -95,12 +95,12 @@
         </header>
     <p id="seccion">Inicio</p>
         <p id="txt">
-            Mi nombre es Eduardo Viñas Valdez estudiante de ingenieria en software en la Universidad Politecnica
-            de Tecamac, donde he realizado este sitio web por medio de programas de desarrollo cliente servidor.</p>
+            Sean ustedes bienvenidos a mi sitio web, en este sitio doy a conocer algunas cosas sobre el diseño,
+            ademas de alguna que otra recomendacion que quizas les pueda servir de utilidad.</p>
         <p id="txt">
-            Sean bienvenidos a la pagina principal de este blog, aqui les voy a mostrar algunos de mis trabajos
-            relacionados a la programacion de sitios web y software, comento y recomiendo algunas cosas 
-            que quizas les puedan ayudar o que sean de interes para esta materia.
+            Estudiante en programacion de software en la Universidad Politecnica de Tecamac, comunmente
+            envio archivos via github y puedo hacer una que otra experimentacion que puedo mostrar, me enfoco
+            en HTML, CSS, JS, Java, C# / .NET, PHP, SQL y JQuery.
         </p>
     <br>
 </body>

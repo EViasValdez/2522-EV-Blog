@@ -106,6 +106,18 @@
     <p id="seccion">Actualizaciones</p>
     <table>
         <tr>
+            <td id="txtitulo">Prueba de utilizacion de APIs</td>
+        </tr>
+        <tr>
+            <td id="txtdesc">
+                Algo que realice para practicar la utilizacion de APIs fue este pequeño sitio usando datos por medio de llamadas
+                utilice una api (la cual le pertenece a sus respectivos autores) y colocando los datos dentro de una tabla, originalmente
+                queria poner el nombre de un objeto junto con su imagen respectiva pero no pude hacerlo funcionar al menos como trataba de serlo
+                en fin, el archivo se los tengo aqui (Se nececita de WinRar para poder extraerlo) 
+            </td>
+        </tr>
+        <tr>
+        <tr>
             <td id="txtitulo">Blog</td>
         </tr>
         <tr>
@@ -119,8 +131,12 @@
         </tr>
         <tr>
             <td id="txtdesc">
-                He aqui las actividades que hicimos en clases utilizando php, usando metodos 
-                orientados a objetos pudeden verlos a traves de estos enlaces
+                He aqui las actividades que hicimos en las primeras clases utilizando php y usando metodos 
+                orientados a objetos pudeden verlos a traves de los links de abajo.
+                <br>
+                <a id="enlace" href="archivos/Ejercicio1.php">Ejercicio de repeticion de mensajes</a>
+                <br>
+                <a id="enlace" href="archivos/Ejercicio2.php">Utilizacion de clases con funciones</a>
             </a>
             </td>
         </tr>
