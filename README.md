@@ -1,6 +1,6 @@
 # Pagina web
 <!----Descripcion---->
-Aqui tengo la pagina web tipo blog que hice para una asignacion de examen, la pagina fue escrita en php (con su variante de formato blade) con el uso del formato HTML con CSS, para poder mostrarla se instalo Laravel y utilice Heroku para poder pasarla via repositorio (aunque este ultimo paso fue muy complicado que hasta tuve que reinstalar composer y laravel para poder hacerlo correctamente).
+Aqui tengo la pagina web tipo blog que hice para una asignacion de examen de primera unidad, la pagina fue escrita en php (con su variante de formato blade) con el uso del formato HTML con CSS, para poder mostrarla se instalo Laravel y utilice Heroku para poder pasarla via repositorio (aunque este ultimo paso fue muy complicado que hasta tuve que reinstalar composer y laravel para poder hacerlo correctamente).
 <!----Separador de la descripcion ---->
 
 <!----Notas---->
@@ -12,7 +12,9 @@ Aqui tengo la pagina web tipo blog que hice para una asignacion de examen, la pa
 
 **- El nombre fue creado por invento mio, fue de algun titulo que se me ocurrio.**
 
-**- De momento el sitio el sitio muestra errores, eso es debido a un asunto con el heroku.**
+**- De momento el sitio muestra errores, eso es debido a un asunto con el heroku.**
+
+**- He actualizado parcialmente la seccion del blog la cual he faltado de realizar por completo.**
 <!----Separador de las notas---->
 
 <!----Separador---->
