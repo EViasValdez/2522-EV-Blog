@@ -85,6 +85,7 @@
             font-family: "Saira";
             font-size: 20px;
             color: white;
+            padding-bottom: 10px;
         }
         #enlace{
             font-weight: bold;
@@ -139,6 +140,18 @@
                 <a id="enlace" href="{{asset('archivos/Ejercicio1.php')}}">Ejercicio de repeticion de mensajes</a>
                 <br>
                 <a id="enlace" href="{{asset('archivos/Ejercicio2.php')}}">Utilizacion de clases con funciones</a>
+            </a>
+            </td>
+        </tr>
+        <tr>
+            <td id="txtitulo">Prueba de concepto de InstitGen - 19/01/22</td>
+        </tr>
+        <tr>
+            <td id="txtdesc">
+                Estas imagenes son parte de las actividades donde nos dieron una idea de crear una aplicacion
+                y esta fue una idea que se me ocurrio, incluye algunos diagramas de ideas y representacion de
+                la aplicacion a cuaderno, de la cual estaba pensando en hacer un programa tipo C#, por ello
+                la interfaz de usario que tuve planeada.
             </a>
             </td>
         </tr>
