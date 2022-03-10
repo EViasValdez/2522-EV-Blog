@@ -10,7 +10,7 @@ Aqui tengo la pagina web tipo blog que hice para una asignacion de examen, la pa
 
 **- El nombre fue creado por invento mio, fue de algun titulo que se me ocurrio.**
 
-**- Ya el sitio funciona sin muchos problemas ahora, aun tengo que ver eso de los enlaces.**
+**- Ya el sitio funciona sin muchos problemas ahora, tambien cambie unas cuantas cosas en algunas partes de este.**
 <!----Separador de las notas---->
 
 <!----Separador---->
