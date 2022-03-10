@@ -97,8 +97,8 @@
             display: block;
             margin-left: auto;
             margin-right: auto;
-            height: 486px;
-            width: 648px;
+            height: 648px;
+            width: 486px;
         }
     </style>
         <header>
