@@ -152,12 +152,12 @@
                 y esta fue una idea que se me ocurrio, incluye algunos diagramas de ideas y representacion de
                 la aplicacion a cuaderno, de la cual estaba pensando en hacer un programa tipo C#, por ello
                 la interfaz de usario que tuve planeada.
-                <img src="{{asset('archivos/InstitGen/InstitGen - 1.png')}}">
-                <img src="{{asset('archivos/InstitGen/InstitGen - 2.png')}}">
-                <img src="{{asset('archivos/InstitGen/InstitGen - 3.png')}}">
-                <img src="{{asset('archivos/InstitGen/InstitGen - 4.png')}}">
-                <img src="{{asset('archivos/InstitGen/InstitGen - 5.png')}}">
-                <img src="{{asset('archivos/InstitGen/InstitGen - 6.png')}}">
+                <img src="{{asset('archivos/InstitGen/InstitGen - 1.jpg')}}">
+                <img src="{{asset('archivos/InstitGen/InstitGen - 2.jpg')}}">
+                <img src="{{asset('archivos/InstitGen/InstitGen - 3.jpg')}}">
+                <img src="{{asset('archivos/InstitGen/InstitGen - 4.jpg')}}">
+                <img src="{{asset('archivos/InstitGen/InstitGen - 5.jpg')}}">
+                <img src="{{asset('archivos/InstitGen/InstitGen - 6.jpg')}}">
             </a>
             </td>
         </tr>
