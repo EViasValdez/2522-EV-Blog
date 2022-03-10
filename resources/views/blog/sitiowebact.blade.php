@@ -85,7 +85,7 @@
             font-family: "Saira";
             font-size: 20px;
             color: white;
-            padding-bottom: 10px;
+            padding-bottom: 20px;
         }
         #enlace{
             font-weight: bold;
@@ -134,7 +134,7 @@
         </tr>
         <tr>
             <td id="txtdesc">
-                He aqui las actividades que hicimos en las primeras clases utilizando php y usando metodos 
+                He aqui las actividades que realizamos en las primeras clases utilizando php y usando metodos 
                 orientados a objetos pudeden verlos a traves de los links de abajo.
                 <br>
                 <a id="enlace" href="{{asset('archivos/Ejercicio1.php')}}">Ejercicio de repeticion de mensajes</a>
