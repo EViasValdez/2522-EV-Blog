@@ -21,7 +21,7 @@ Pueden ver la pagina a traves de este enlace
 Las imagenes y fuentes utilizadas para este sitio pertenecen a sus respectivos dueños y/o autores.
 Material usado:
 - Fuentes de letra | Google Fonts
-- Imagenes de fondo | Vecteezy
+- Imagenes de fondo | Varios sitios de imagenes fondo para sitios web.
 - Imagenes de paginas de enlaces | Respectivos autores
 - Fondos de patrones | CSS Pattern Generator
 <!----Separador---->
