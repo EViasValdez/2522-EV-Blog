@@ -1,6 +1,6 @@
 # Pagina web
 <!----Descripcion---->
-Aqui tengo la pagina web tipo blog que hice para una asignacion de examen, la pagina fue escrita en php (con su variante de formato blade) con el uso del formato HTML con CSS, para poder mostrarla se instalo Laravel y utilice Heroku para poder pasarla via repositorio (aunque este ultimo paso fue muy complicado que hasta tuve que reinstalar composer y laravel para poder hacerlo correctamente).
+Aqui tengo la pagina web tipo blog que hice para una asignacion de examen, la pagina fue escrita en php (con su variante de formato blade) con el uso del formato HTML con CSS, para poder mostrarla se instalo Laravel y utilice Heroku para poder pasarla via repositorio (aunque este ultimo paso fue muy complicado que hasta tuve que reinstalar composer y laravel para poder hacerlo correctamente, dos veces de hecho debido a que no habian ciertos archivos en las carpetas vendor).
 <!----Separador de la descripcion ---->
 <!----Notas---->
 **Notas:**
@@ -11,7 +11,7 @@ Aqui tengo la pagina web tipo blog que hice para una asignacion de examen, la pa
 
 **- El nombre fue creado por invento mio, fue de algun titulo que se me ocurrio.**
 
-**- Ya el sitio funciona sin muchos problemas ahora, aun tengo que ver eso de los enlaces.**
+**- Ya el sitio funciona sin muchos problemas ahora, tambien cambie unas cuantas cosas en algunas partes de este.**
 <!----Separador de las notas---->
 
 <!----Separador---->
@@ -23,7 +23,7 @@ Pueden ver la pagina a traves de este enlace
 Las imagenes y fuentes utilizadas para este sitio pertenecen a sus respectivos dueños y/o autores.
 Material usado:
 - Fuentes de letra | Google Fonts
-- Imagenes de fondo | Vecteezy
+- Imagenes de fondo | Varios sitios de imagenes fondo para sitios web.
 - Imagenes de paginas de enlaces | Respectivos autores
 - Fondos de patrones | CSS Pattern Generator
 <!----Separador---->
