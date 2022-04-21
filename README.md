@@ -1,6 +1,6 @@
 # Pagina web
 <!----Descripcion---->
-Aqui tengo la pagina web tipo blog que hice para una asignacion de examen, la pagina fue escrita en php (con su variante de formato blade) con el uso del formato HTML con CSS, para poder mostrarla se instalo Laravel y utilice Heroku para poder pasarla via repositorio (aunque este ultimo paso fue muy complicado que hasta tuve que reinstalar composer y laravel para poder hacerlo correctamente, dos veces de hecho debido a que no habian ciertos archivos en las carpetas vendor).
+Aqui tengo la pagina web tipo blog que hice para una asignacion de examen, la pagina fue escrita en php (con su variante de formato Blade php) con el uso del formato HTML con CSS, para poder mostrarla se instalo Laravel y utilice Heroku para poder pasarla via repositorio (aunque este ultimo paso fue muy complicado que hasta tuve que reinstalar composer y laravel para poder hacerlo correctamente, dos veces de hecho debido a que no habian ciertos archivos en las carpetas vendor).
 <!----Separador de la descripcion ---->
 <!----Notas---->
 **Notas:**
