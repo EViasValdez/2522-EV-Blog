@@ -7,7 +7,7 @@ Aqui tengo la pagina web tipo blog que hice para una asignacion de examen, la pa
 
 **- A diferencia de otros repositorios no pondre cada archivo que va con este repositorio debido a que son muchos y podria ser demasiado.**
 
-**- Se nos pidio que hicieramos minimo tres paginas para poder hacer examen por eso las unicas secciones que funcionan son el inicio, las actualizaciones y los enlaces (pensaba hacer otra pagina que hiba a ser la de experimentacion pero no pude por tiempo).**
+**- Nos pidieron hacer un minimo de tres paginas para poder hacer examen por eso las unicas secciones que funcionan son el inicio, las actualizaciones y los enlaces (pensaba hacer otra pagina que hiba a ser la de experimentacion pero no pude por tiempo).**
 
 **- El nombre fue creado por invento mio, fue algo improvisado.**
 
