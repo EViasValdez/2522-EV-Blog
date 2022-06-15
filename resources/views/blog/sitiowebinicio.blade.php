@@ -84,11 +84,11 @@
         }
     </style>
         <header>
-            <p id="titulo">Salon de la programacion</p>
+            <p id="titulo">Salon de la programación</p>
             <div id="navegador">
                 <a id="opcinavg" href="sitiowebinicio">Inicio</a>
                 <a id="opcinavg" href="sitiowebact">Actualizaciones</a>
-                <a id="opcinavg" href="">Experimentacion</a>
+                <a id="opcinavg" href="">Experimentación</a>
                 <a id="opcinavg" href="sitiowebenlaces">Enlaces</a>
                 <a id="opcinavg" href="">Otros</a>
             </div>
@@ -96,11 +96,11 @@
     <p id="seccion">Inicio</p>
         <p id="txt">
             Sean ustedes bienvenidos a mi sitio web, en este sitio doy a conocer algunas cosas sobre el diseño,
-            ademas de alguna que otra recomendacion que quizas les pueda servir de utilidad.
+            ademas de alguna que otra recomendación que quizás les pueda servir de utilidad.
         </p>
         <p id="txt">
-            Estudiante en programacion de software en la Universidad Politecnica de Tecamac, comunmente
-            envio archivos via github y puedo hacer una que otra experimentacion que puedo mostrar, me enfoco
+            Estudiante en programación de software en la Universidad Politécnica de Tecamac, comúnmente
+            envió archivos via github y puedo hacer una que otra experimentación que puedo mostrar, me enfoco
             en HTML, CSS, JS, Java, C# / .NET, PHP, SQL y JQuery.
         </p>
     <br>

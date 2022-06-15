@@ -94,58 +94,50 @@
             color: white;
         }
         #vs19logo{
+            margin: 0px auto;
             display: block;
-            margin-left: auto;
-            margin-right: auto;
             height: 100px;
             width: 100px;
         }
         #vsclogo{
+            margin: 0px auto;
             display: block;
-            margin-left: auto;
-            margin-right: auto;
             height: 100px;
             width: 100px;
         }
         #nblogo{
+            margin: 0px auto;
             display: block;
-            margin-left: auto;
-            margin-right: auto;
             height: 100px;
             width: 100px;
         }
         #xplogo{
+            margin: 0px auto;
             display: block;
-            margin-left: auto;
-            margin-right: auto;
             height: 100px;
             width: 100px;
         }
         #laravellogo{
+            margin: 0px auto;
             display: block;
-            margin-left: auto;
-            margin-right: auto;
             height: 200px;
             width: 200px;
         }
         #complogo{
+            margin: 0px auto;
             display: block;
-            margin-left: auto;
-            margin-right: auto;
             height: 120px;
             width: 100px;
         }
         #jquelogo{
+            margin: 0px auto;
             display: block;
-            margin-left: auto;
-            margin-right: auto;
             height: 100px;
             width: 100px;
         }
         #bootstrlogo{
+            margin: 0px auto;
             display: block;
-            margin-left: auto;
-            margin-right: auto;
             height: 100px;
             width: 128px;
         }
@@ -155,18 +147,18 @@
             <div id="navegador">
                 <a id="opcinavg" href="sitiowebinicio">Inicio</a>
                 <a id="opcinavg" href="sitiowebact">Actualizaciones</a>
-                <a id="opcinavg" href="">Experimentacion</a>
+                <a id="opcinavg" href="">Experimentación</a>
                 <a id="opcinavg" href="sitiowebenlaces">Enlaces</a>
                 <a id="opcinavg" href="">Otros</a>
             </div>
         </header>
 
     <p id="seccion">Enlaces</p>
-    <p id="txts">Aqui pongo algunos materiales que yo uso para la materia y que quizas les puedan ser utiles</p>
-    <p id="titulo">Entornos de programacion usados</p>
+    <p id="txts">Aqui pongo algunos materiales que yo uso para la materia y que quizás les puedan ser utiles</p>
+    <p id="titulo">Entornos de programación usados</p>
     <p id="txt">Visual Studio Code</p>
     <img id="vsclogo" src="https://www.returngis.net/wp-content/uploads/2015/11/VS-Code.png">
-    <p id="txts">Principal editor que utlizo para casi todos los lenguajes</p>
+    <p id="txts">Principal editor que utilizo para casi todos los lenguajes</p>
     <a id="enlace" href="https://code.visualstudio.com/">https://code.visualstudio.com/</a>
     <p id="txt">Visual Studio 2019</p>
     <img id="vs19logo" src="https://ar.toneden.io/44033395/unlocks/temp807303?cache=1610660281859">
@@ -186,15 +178,15 @@
     <a id="enlace" href="https://www.apachefriends.org/download.html">https://www.apachefriends.org/download.html</a>
     <p id="txt">Laravel</p>
     <img id="laravellogo" src="https://logospng.org/download/laravel/logo-laravel-1024.png">
-    <p id="txts">Este tambien lo uso mas en estos dias</p>
+    <p id="txts">Este también lo uso mas en estos dias</p>
     <a id="enlace" href="https://laravel.com/docs/4.2">https://laravel.com/docs/4.2</a>
     <p id="txt">Composer</p>
     <img id="complogo" src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-png-transparent.png">
-    <p id="txts">Lo nececitaran para instalar laravel</p>
+    <p id="txts">Lo necesitaran para instalar laravel</p>
     <a id="enlace" href="https://getcomposer.org/download/">https://getcomposer.org/download/</a>
     <p id="txt">qQuery</p>
     <img id="jquelogo" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg">
-    <p id="txts">Usado para ciertos proyectos que hice en programacion web</p>
+    <p id="txts">Usado para ciertos proyectos que hice en programación web</p>
     <a id="enlace" href="https://jquery.com/download/">https://jquery.com/download/</a>
     <p id="txt">Bootstrap 5</p>
     <img id="bootstrlogo" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg">
