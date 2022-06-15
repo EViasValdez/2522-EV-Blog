@@ -143,7 +143,7 @@
         }
     </style>
         <header>
-            <p id="titulo">Salon de la programacion</p>
+            <p id="titulo">Salon de la programación</p>
             <div id="navegador">
                 <a id="opcinavg" href="sitiowebinicio">Inicio</a>
                 <a id="opcinavg" href="sitiowebact">Actualizaciones</a>
@@ -154,7 +154,7 @@
         </header>
 
     <p id="seccion">Enlaces</p>
-    <p id="txts">Aqui pongo algunos materiales que yo uso para la materia y que quizás les puedan ser utiles</p>
+    <p id="txts">Aquí pongo algunos materiales que yo uso para la materia y que quizás les puedan ser utiles</p>
     <p id="titulo">Entornos de programación usados</p>
     <p id="txt">Visual Studio Code</p>
     <img id="vsclogo" src="https://www.returngis.net/wp-content/uploads/2015/11/VS-Code.png">

@@ -102,11 +102,11 @@
         }
     </style>
         <header>
-            <p id="titulo">Salon de la programacion</p>
+            <p id="titulo">Salon de la programación</p>
             <div id="navegador">
                 <a id="opcinavg" href="sitiowebinicio">Inicio</a>
                 <a id="opcinavg" href="sitiowebact">Actualizaciones</a>
-                <a id="opcinavg" href="">Experimentacion</a>
+                <a id="opcinavg" href="">Experimentación</a>
                 <a id="opcinavg" href="sitiowebenlaces">Enlaces</a>
                 <a id="opcinavg" href="">Otros</a>
             </div>
@@ -114,14 +114,14 @@
     <p id="seccion">Actualizaciones</p>
     <table>
         <tr>
-            <td id="txtitulo">Prueba de utilizacion de APIs - 08/03/22</td>
+            <td id="txtitulo">Prueba de utilización de APIs - 08/03/22</td>
         </tr>
         <tr>
             <td id="txtdesc">
-                Algo que realice para practicar la utilizacion de APIs fue este pequeño sitio usando datos por medio de llamadas
+                Algo que realice para practicar la utilización de APIs fue este pequeño sitio usando datos por medio de llamadas
                 utilice una api (la cual le pertenece a sus respectivos autores) y colocando los datos dentro de una tabla, originalmente
-                queria poner el nombre de un objeto junto con su imagen respectiva pero no pude hacerlo funcionar al menos como trataba de serlo
-                en fin, el archivo se los tengo aqui (se tener instalado WinRar para poder extraerlo).
+                quería poner el nombre de un objeto junto con su imagen respectiva pero no pude hacerlo funcionar al menos como trataba de serlo
+                en fin, el archivo se los tengo aquí (se tener instalado WinRar para poder extraerlo).
                 <br>
                 <a id="enlace" href="{{asset('archivos/PruebaAPIConLaravel.rar')}}">PruebaAPIConLaravel.rar</a>
             </td>
@@ -132,21 +132,21 @@
         </tr>
         <tr>
             <td id="txtdesc">
-                Este es el codigo fuente del blog subida a traves de github, 
-                para ir al repositorio y para mas informacion revisen este enlace <a id="enlace" href="https://github.com/EViasValdez/2522-EV-Blog">https://github.com/EViasValdez/2522-EV-Blog</a>
+                Este es el código fuente del blog subida a traves de github, 
+                para ir al repositorio y para mas información revisen este enlace <a id="enlace" href="https://github.com/EViasValdez/2522-EV-Blog">https://github.com/EViasValdez/2522-EV-Blog</a>
             </td>
         </tr>
         <tr>
-            <td id="txtitulo">Introduccion al PHP y ejercicios - 30/01/22</td>
+            <td id="txtitulo">Introducción al PHP y ejercicios - 30/01/22</td>
         </tr>
         <tr>
             <td id="txtdesc">
-                He aqui las actividades que realizamos en las primeras clases utilizando php y usando metodos 
-                orientados a objetos pudeden verlos a traves de los links de abajo.
+                He aquí las actividades que realizamos en las primeras clases utilizando php y usando métodos 
+                orientados a objetos pueden verlos a traves de los links de abajo.
                 <br>
-                <a id="enlace" href="{{asset('archivos/Ejercicio1.php')}}">Ejercicio de repeticion de mensajes</a>
+                <a id="enlace" href="{{asset('archivos/Ejercicio1.php')}}">Ejercicio de repetición de mensajes</a>
                 <br>
-                <a id="enlace" href="{{asset('archivos/Ejercicio2.php')}}">Utilizacion de clases con funciones</a>
+                <a id="enlace" href="{{asset('archivos/Ejercicio2.php')}}">Utilización de clases con funciones</a>
             </a>
             </td>
         </tr>
@@ -155,10 +155,10 @@
         </tr>
         <tr>
             <td id="txtdesc">
-                Estas imagenes son parte de las actividades donde nos dieron una idea de crear una aplicacion
-                y esta fue una idea que se me ocurrio, incluye algunos diagramas de ideas y representacion de
-                la aplicacion a cuaderno, de la cual estaba pensando en hacer un programa tipo C#, por ello
-                la interfaz de usario que tuve planeada.
+                Estas imágenes son parte de las actividades donde nos dieron una idea de crear una aplicación
+                y esta fue una idea que se me ocurrió, incluye algunos diagramas de ideas y representación de
+                la aplicación a cuaderno, de la cual estaba pensando en hacer un programa tipo C#, por ello
+                la interfaz de usuario que tuve planeada.
                 <img id="igimagenhoja" src="{{asset('archivos/InstitGen/InstitGen - 1.jpg')}}">
                 <img id="igimagenhoja" src="{{asset('archivos/InstitGen/InstitGen - 2.jpg')}}">
                 <img id="igimagenhoja" src="{{asset('archivos/InstitGen/InstitGen - 3.jpg')}}">
