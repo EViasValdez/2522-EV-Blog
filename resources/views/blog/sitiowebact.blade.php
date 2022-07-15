@@ -121,7 +121,7 @@
                 Algo que realice para practicar la utilización de APIs fue este pequeño sitio usando datos por medio de llamadas
                 utilice una api (la cual le pertenece a sus respectivos autores) y colocando los datos dentro de una tabla, originalmente
                 quería poner el nombre de un objeto junto con su imagen respectiva pero no pude hacerlo funcionar al menos como trataba de serlo
-                en fin, el archivo se los tengo aquí (se tener instalado WinRar para poder extraerlo).
+                en fin, el archivo se los tengo aquí (Se necesita tener instalado WinRar para poder extraerlo).
                 <br>
                 <a id="enlace" href="{{asset('archivos/PruebaAPIConLaravel.rar')}}">PruebaAPIConLaravel.rar</a>
             </td>

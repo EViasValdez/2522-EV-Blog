@@ -95,13 +95,11 @@
         </header>
     <p id="seccion">Inicio</p>
         <p id="txt">
-            Sean ustedes bienvenidos a mi sitio web, en este sitio doy a conocer algunas cosas sobre el diseño,
-            ademas de alguna que otra recomendación que quizás les pueda servir de utilidad.
+            Sean ustedes bienvenidos a mi sitio web, en este sitio doy a conocer algunas cosas sobre el diseño, ademas de alguna que otra recomendación que quizás les pueda servir de utilidad.
         </p>
         <p id="txt">
             Estudiante en programación de software en la Universidad Politécnica de Tecamac, comúnmente
-            envió archivos via github y puedo hacer una que otra experimentación que puedo mostrar, me enfoco
-            en HTML, CSS, JS, Java, C# / .NET, PHP, SQL y JQuery.
+            envió archivos via github y puedo hacer una que otra experimentación que puedo mostrar, me enfoco en HTML, CSS, JS, Java, C# / .NET, PHP, SQL y JQuery.
         </p>
     <br>
 </body>
