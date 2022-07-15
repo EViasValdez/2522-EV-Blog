@@ -1,7 +1,7 @@
 # Pagina web
 <!----Descripción---->
 Aquí tengo la pagina web tipo blog que hice para una asignación de examen, la pagina fue creada en php (con su variante de formato Blade) con el uso del formato HTML con CSS, para poder mostrarla se instalo Laravel y use Heroku para poder pasarla via repositorio (aunque este ultimo paso fue muy complicado que hasta tuve que reinstalar composer y laravel para poder hacerlo correctamente, dos veces de hecho debido a que no habían ciertos archivos en las carpetas vendor y dicha carpeta no tenia que ser incluida en el repositorio).
-<!----Separador de la descripcion ---->
+<!----Separador de la descripción ---->
 <!----Notas---->
 **Notas:**
 
