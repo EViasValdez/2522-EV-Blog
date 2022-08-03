@@ -12,23 +12,23 @@
 </head>
 <body>
     <style type="text/css">
-        body{
+        body {
             background-color: #b01200;
             opacity: 1;
             background-size: 60px 60px;
             background-image:  repeating-linear-gradient(to right, #050000, #050000 3px, #b01200 3px, #b01200);
         }
-        header{
+        header {
             padding-top: 10px;
             background-color: rgb(28, 0, 134);
         }
-        #navegador{
+        #navegador {
             float: top;
             font-family: "Permanent Marker";
             text-align: center;
             background-color: rgb(217, 0, 0);
         }
-        #opcinavg{
+        #opcinavg {
             background-color: rgb(217, 0, 0);
             color: white;
             text-decoration: none;
@@ -39,7 +39,7 @@
             transition-timing-function: ease-in-out;
             transition: 0.8s;
         }
-        #opcinavg:hover{
+        #opcinavg:hover {
             background-color: rgb(255, 133, 133);
             color: black;
             text-decoration: none;
@@ -50,33 +50,33 @@
             transition-timing-function: ease-in-out;
             transition: 0.4s;
         }
-        #titulo{
+        #titulo {
             text-align: center;
             font-family: "Allerta Stencil";
             font-size: 48px;
             font-weight: bolder;
             color: white;
         }
-        #seccion{
+        #seccion {
             text-align: center;
             font-size: 40px;
             font-family: "Ramabhadra";
             color: white;
         }
-        table{
+        table {
             margin-left: auto;
             margin-right: auto;
             width: 80%;
             background-color: rgba(255, 40, 0, 0.48);
         }
-        #txtitulo{
+        #txtitulo {
             text-align: center;
             font-weight: bolder;
             font-family: "Saira";
             font-size: 28px;
             color: white;
         }
-        #txtdesc{
+        #txtdesc {
             text-align: center;
             margin-left: auto;
             margin-right: auto;
@@ -87,13 +87,13 @@
             color: white;
             padding-bottom: 48px;
         }
-        #enlace{
+        #enlace {
             font-weight: bold;
             font-family: "Saira";
             font-size: 20px;
             color: white;
         }
-        #igimagenhoja{
+        #igimagenhoja {
             display: block;
             margin-left: auto;
             margin-right: auto;

@@ -12,22 +12,22 @@
 </head>
 <body>
     <style type="text/css">
-        body{
+        body {
             background-color: #000090;
             background-image: linear-gradient(to right, #000000, #000000 20px, #000090 20px, #000090 );
             background-size: 40px 100%;
         }
-        header{
+        header {
             padding-top: 10px;
             background-color: rgb(28, 0, 134);
         }
-        #navegador{
+        #navegador {
             float: top;
             font-family: "Permanent Marker";
             text-align: center;
             background-color: rgb(217, 0, 0);
         }
-        #opcinavg{
+        #opcinavg {
             background-color: rgb(217, 0, 0);
             color: white;
             text-decoration: none;
@@ -38,7 +38,7 @@
             transition-timing-function: ease-in-out;
             transition: 0.8s;
         }
-        #opcinavg:hover{
+        #opcinavg:hover {
             background-color: rgb(255, 133, 133);
             color: black;
             text-decoration: none;
@@ -49,41 +49,41 @@
             transition-timing-function: ease-in-out;
             transition: 0.4s;
         }
-        #titulo{
+        #titulo {
             text-align: center;
             font-family: "Allerta Stencil";
             font-size: 48px;
             font-weight: bolder;
             color: white;
         }
-        #seccion{
+        #seccion {
             text-align: center;
             font-size: 40px;
             font-family: "Ramabhadra";
             color: white;
         }
-        #titulo{
+        #titulo {
             text-align: center;
             font-weight: bold;
             font-family: "Saira";
             font-size: 38px;
             color: white;
         }
-        #txt{
+        #txt {
             text-align: center;
             font-weight: bold;
             font-family: "Saira";
             font-size: 24px;
             color: white;
         }
-        #txts{
+        #txts {
             text-align: center;
             font-weight: bold;
             font-family: "Saira";
             font-size: 20px;
             color: white;
         }
-        #enlace{
+        #enlace {
             display: block;
             margin-left: auto;
             margin-right: auto;
@@ -93,49 +93,49 @@
             font-size: 20px;
             color: white;
         }
-        #vs19logo{
+        #vs19logo {
             margin: 0px auto;
             display: block;
             height: 100px;
             width: 100px;
         }
-        #vsclogo{
+        #vsclogo {
             margin: 0px auto;
             display: block;
             height: 100px;
             width: 100px;
         }
-        #nblogo{
+        #nblogo {
             margin: 0px auto;
             display: block;
             height: 100px;
             width: 100px;
         }
-        #xplogo{
+        #xplogo {
             margin: 0px auto;
             display: block;
             height: 100px;
             width: 100px;
         }
-        #laravellogo{
+        #laravellogo {
             margin: 0px auto;
             display: block;
             height: 200px;
             width: 200px;
         }
-        #complogo{
+        #complogo {
             margin: 0px auto;
             display: block;
             height: 120px;
             width: 100px;
         }
-        #jquelogo{
+        #jquelogo {
             margin: 0px auto;
             display: block;
             height: 100px;
             width: 100px;
         }
-        #bootstrlogo{
+        #bootstrlogo {
             margin: 0px auto;
             display: block;
             height: 100px;
