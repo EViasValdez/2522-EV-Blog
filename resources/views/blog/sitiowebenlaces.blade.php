@@ -93,13 +93,19 @@
             font-size: 20px;
             color: white;
         }
-        #vs19logo {
+        #vs22logo {
             margin: 0px auto;
             display: block;
             height: 100px;
             width: 100px;
         }
         #vsclogo {
+            margin: 0px auto;
+            display: block;
+            height: 100px;
+            width: 100px;
+        }
+        #vscodiumlogo {
             margin: 0px auto;
             display: block;
             height: 100px;
@@ -160,8 +166,11 @@
     <img id="vsclogo" src="https://www.returngis.net/wp-content/uploads/2015/11/VS-Code.png">
     <p id="txts">Principal editor que utilizo para casi todos los lenguajes</p>
     <a id="enlace" href="https://code.visualstudio.com/">https://code.visualstudio.com/</a>
-    <p id="txt">Visual Studio 2019</p>
-    <img id="vs19logo" src="https://ar.toneden.io/44033395/unlocks/temp807303?cache=1610660281859">
+    <img id="vscodiumlogo" src="https://user-images.githubusercontent.com/1499476/90325153-1cac9a80-df46-11ea-967a-486d523f551b.png">
+    <p id="txts">Por agregar.</p>
+    <a id="enlace" href="https://vscodium.com/">https://vscodium.com/</a>
+    <p id="txt">Visual Studio 2022</p>
+    <img id="vs22logo" src="https://visualstudio.microsoft.com/es/vs/">
     <p id="txts">Editor secundario que uso para ciertos lenguajes o modalidades como los forms</p>
     <a id="enlace" href="https://visualstudio.microsoft.com/es/vs/older-downloads/#visual-studio-2019-and-other-products">https://visualstudio.microsoft.com/es/vs/older-downloads/#visual-studio-2019-and-other-products</a>
     <p id="txts">NetBeans 8.2</p>
