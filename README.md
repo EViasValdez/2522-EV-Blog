@@ -1,4 +1,4 @@
-# Pagina web
+# Pagina web utilizando laravel
 <!----Descripción---->
 Aquí tengo la página web tipo blog que hice para una asignación de examen, fue creada en php (con su variante de formato Blade) con el uso del formato HTML con CSS, para poder mostrarla se instaló Laravel y use Heroku para poder pasarla vía repositorio (aunque este último paso fue muy complicado que hasta tuve que reinstalar composer y laravel para poder hacerlo correctamente, dos veces de hecho debido a que no habían ciertos archivos en las carpetas vendor y dicha carpeta no tenía que ser incluida en el repositorio).
 <!----Separador de la descripción ---->
