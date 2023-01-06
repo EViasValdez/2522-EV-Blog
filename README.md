@@ -23,10 +23,10 @@ Pueden ver la pagina a traves de este enlace
 
 <!----Separador---->
 Las imágenes y fuentes utilizadas para este sitio pertenecen a sus respectivos dueños y/o autores.
-Material usado:
 
+Material usado:
 -   Fuentes de letra | Google Fonts
 -   Imágenes de fondo | Varios sitios de imágenes fondo para sitios web.
 -   Imágenes de páginas de enlaces | Respectivos autores
--   Fondos de patrones | CSS Pattern Generator
+-   Fondo de patrones | CSS Pattern Generator
 <!----Separador---->
