@@ -13,7 +13,7 @@ Aquí tengo la página web tipo blog que hice para una asignación de examen, fu
 
 **- El nombre fue creado por invento mío, fue algo improvisado.**
 
-**- Ya el sitio funciona sin muchos problemas ahora, también cambie unas cuantas cosas en algunas partes de este.**
+**- Estoy teniendo problemas con el sitio de Heroku en lo que refiere a este y otros proyectos relacionados.**
 <!----Separador de las notas---->
 
 <!----Separador---->
