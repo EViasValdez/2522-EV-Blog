@@ -9,11 +9,11 @@ Aquí tengo la página web tipo blog que hice para una asignación de examen, fu
 
 **- A diferencia de otros repositorios no pondré cada archivo que va con este repositorio debido a que son muchos y podría ser demasiado.**
 
-**- Nos pidieron hacer un mínimo de tres páginas para poder hacer examen por eso las únicas secciones que funcionan son el inicio, las actualizaciones y los enlaces (pensaba hacer otra página que iba a ser la de experimentación pero no pude por tiempo).**
+**- Nos pidieron hacer un mínimo de tres páginas para poder hacer examen por eso las únicas secciones que funcionan son el inicio, las actualizaciones y los enlaces (pensaba hacer otra página que iba a ser la de experimentación donde pondria algunos programas pero no pude por tiempo).**
 
 **- El nombre fue creado por invento mío, fue algo improvisado.**
 
-**- El enlace ya no tiene conexion debido a no he podido ingresar a la cuenta de heroku, trate de hacer otra cuenta pero desde hace ya un tiempo dicho sitio ya no permite crear apps de forma gratis, todavia pueden ver el sitio descargando el codigo fuente y usar XAMPP.**
+**- El enlace ya no tiene conexion ya que de momento no he podido ingresar a la cuenta de heroku, trate de hacer otra cuenta pero desde hace ya un tiempo dicho sitio ya no permite crear apps de forma gratis, todavia pueden ver el sitio descargando el codigo fuente y usar XAMPP.**
 <!----Separador de las notas---->
 
 <!----Separador---->
