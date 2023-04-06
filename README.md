@@ -13,7 +13,7 @@ Aquí tengo la página web tipo blog que hice para una asignación de examen, fu
 
 **- El nombre fue creado por invento mío, fue algo improvisado.**
 
-**- El enlace ya no tiene conexion ya que de momento no he podido ingresar a la cuenta de heroku, trate de hacer otra cuenta pero desde hace ya un tiempo dicho sitio ya no permite crear apps de forma gratis, todavia pueden ver el sitio descargando el codigo fuente y usar XAMPP.**
+**- El enlace ya no tiene conexion ya que de momento no he podido ingresar a la cuenta de heroku, trate de hacer otra cuenta pero desde hace ya un tiempo dicho sitio ya no permite crear apps de forma gratis, todavia pueden descargar el codigo fuente y usar XAMPP.**
 <!----Separador de las notas---->
 
 <!----Separador---->
