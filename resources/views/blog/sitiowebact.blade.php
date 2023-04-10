@@ -22,13 +22,13 @@
             padding-top: 10px;
             background-color: rgb(28, 0, 134);
         }
-        #navegador {
+        #Navegador {
             float: top;
             font-family: "Permanent Marker";
             text-align: center;
             background-color: rgb(217, 0, 0);
         }
-        #opcinavg {
+        #OpciNavg {
             background-color: rgb(217, 0, 0);
             color: white;
             text-decoration: none;
@@ -39,7 +39,7 @@
             transition-timing-function: ease-in-out;
             transition: 0.8s;
         }
-        #opcinavg:hover {
+        #OpciNavg:hover {
             background-color: rgb(255, 133, 133);
             color: black;
             text-decoration: none;
@@ -50,14 +50,14 @@
             transition-timing-function: ease-in-out;
             transition: 0.4s;
         }
-        #titulo {
+        #Titulo {
             text-align: center;
             font-family: "Allerta Stencil";
             font-size: 48px;
             font-weight: bolder;
             color: white;
         }
-        #seccion {
+        #Seccion {
             text-align: center;
             font-size: 40px;
             font-family: "Ramabhadra";
@@ -69,14 +69,14 @@
             width: 80%;
             background-color: rgba(255, 40, 0, 0.48);
         }
-        #txtitulo {
+        #Txtitulo {
             text-align: center;
             font-weight: bolder;
             font-family: "Saira";
             font-size: 28px;
             color: white;
         }
-        #txtdesc {
+        #TxtDesc {
             text-align: center;
             margin-left: auto;
             margin-right: auto;
@@ -87,13 +87,13 @@
             color: white;
             padding-bottom: 48px;
         }
-        #enlace {
+        #Enlace {
             font-weight: bold;
             font-family: "Saira";
             font-size: 20px;
             color: white;
         }
-        #igimagenhoja {
+        #ImagenHoja {
             display: block;
             margin-left: auto;
             margin-right: auto;
@@ -102,69 +102,69 @@
         }
     </style>
         <header>
-            <p id="titulo">Salon de la programación</p>
-            <div id="navegador">
-                <a id="opcinavg" href="sitiowebinicio">Inicio</a>
-                <a id="opcinavg" href="sitiowebact">Actualizaciones</a>
-                <a id="opcinavg" href="">Experimentación</a>
-                <a id="opcinavg" href="sitiowebenlaces">Enlaces</a>
-                <a id="opcinavg" href="">Otros</a>
+            <p id="Titulo">Salon de la programación</p>
+            <div id="Navegador">
+                <a id="OpciNavg" href="sitiowebinicio">Inicio</a>
+                <a id="OpciNavg" href="sitiowebact">Actualizaciones</a>
+                <a id="OpciNavg" href="">Experimentación</a>
+                <a id="OpciNavg" href="sitiowebenlaces">Enlaces</a>
+                <a id="OpciNavg" href="">Otros</a>
             </div>
         </header>
-    <p id="seccion">Actualizaciones</p>
+    <p id="Seccion">Actualizaciones</p>
     <table>
         <tr>
-            <td id="txtitulo">Prueba de utilización de APIs - 08/03/22</td>
+            <td id="Txtitulo">Prueba de utilización de APIs - 08/03/22</td>
         </tr>
         <tr>
-            <td id="txtdesc">
+            <td id="TxtDesc">
                 Algo que realice para practicar la utilización de APIs fue este pequeño sitio usando datos por medio de llamadas
                 utilice una api (la cual le pertenece a sus respectivos autores) y colocando los datos dentro de una tabla, originalmente
                 quería poner el nombre de un objeto junto con su imagen respectiva pero no pude hacerlo funcionar al menos como trataba de serlo
                 en fin, el archivo se los tengo aquí (Se necesita tener instalado WinRar para poder extraerlo).
                 <br>
-                <a id="enlace" href="{{asset('archivos/PruebaAPIConLaravel.rar')}}">PruebaAPIConLaravel.rar</a>
+                <a id="Enlace" href="{{asset('archivos/PruebaAPIConLaravel.rar')}}">PruebaAPIConLaravel.rar</a>
             </td>
         </tr>
         <tr>
         <tr>
-            <td id="txtitulo">Blog - 10/02/22</td>
+            <td id="Txtitulo">Blog - 10/02/22</td>
         </tr>
         <tr>
-            <td id="txtdesc">
+            <td id="TxtDesc">
                 Este es el código fuente del blog subida a traves de github, 
-                para ir al repositorio y para mas información revisen este enlace <a id="enlace" href="https://github.com/EViasValdez/2522-EV-Blog">https://github.com/EViasValdez/2522-EV-Blog</a>
+                para ir al repositorio y para mas información revisen este Enlace <a id="Enlace" href="https://github.com/EViasValdez/2522-EV-Blog">https://github.com/EViasValdez/2522-EV-Blog</a>
             </td>
         </tr>
         <tr>
-            <td id="txtitulo">Introducción al PHP y ejercicios - 30/01/22</td>
+            <td id="Txtitulo">Introducción al PHP y ejercicios - 30/01/22</td>
         </tr>
         <tr>
-            <td id="txtdesc">
+            <td id="TxtDesc">
                 He aquí las actividades que realizamos en las primeras clases utilizando php y usando métodos 
                 orientados a objetos pueden verlos a traves de los links de abajo.
                 <br>
-                <a id="enlace" href="{{asset('archivos/Ejercicio1.php')}}">Ejercicio de repetición de mensajes</a>
+                <a id="Enlace" href="{{asset('archivos/Ejercicio1.php')}}">Ejercicio de repetición de mensajes</a>
                 <br>
-                <a id="enlace" href="{{asset('archivos/Ejercicio2.php')}}">Utilización de clases con funciones</a>
+                <a id="Enlace" href="{{asset('archivos/Ejercicio2.php')}}">Utilización de clases con funciones</a>
             </a>
             </td>
         </tr>
         <tr>
-            <td id="txtitulo">Prueba de concepto de InstitGen - 19/01/22</td>
+            <td id="Txtitulo">Prueba de concepto de InstitGen - 19/01/22</td>
         </tr>
         <tr>
-            <td id="txtdesc">
+            <td id="TxtDesc">
                 Estas imágenes son parte de las actividades donde nos dieron una idea de crear una aplicación
                 y esta fue una idea que se me ocurrió, incluye algunos diagramas de ideas y representación de
                 la aplicación a cuaderno, de la cual estaba pensando en hacer un programa tipo C#, por ello
                 la interfaz de usuario que tuve planeada.
-                <img id="igimagenhoja" src="{{asset('archivos/InstitGen/InstitGen - 1.jpg')}}">
-                <img id="igimagenhoja" src="{{asset('archivos/InstitGen/InstitGen - 2.jpg')}}">
-                <img id="igimagenhoja" src="{{asset('archivos/InstitGen/InstitGen - 3.jpg')}}">
-                <img id="igimagenhoja" src="{{asset('archivos/InstitGen/InstitGen - 4.jpg')}}">
-                <img id="igimagenhoja" src="{{asset('archivos/InstitGen/InstitGen - 5.jpg')}}">
-                <img id="igimagenhoja" src="{{asset('archivos/InstitGen/InstitGen - 6.jpg')}}">
+                <img id="ImagenHoja" src="{{asset('archivos/InstitGen/InstitGen - 1.jpg')}}">
+                <img id="ImagenHoja" src="{{asset('archivos/InstitGen/InstitGen - 2.jpg')}}">
+                <img id="ImagenHoja" src="{{asset('archivos/InstitGen/InstitGen - 3.jpg')}}">
+                <img id="ImagenHoja" src="{{asset('archivos/InstitGen/InstitGen - 4.jpg')}}">
+                <img id="ImagenHoja" src="{{asset('archivos/InstitGen/InstitGen - 5.jpg')}}">
+                <img id="ImagenHoja" src="{{asset('archivos/InstitGen/InstitGen - 6.jpg')}}">
             </a>
             </td>
         </tr>

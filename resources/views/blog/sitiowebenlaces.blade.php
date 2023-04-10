@@ -158,7 +158,6 @@
                 <a id="opcinavg" href="">Otros</a>
             </div>
         </header>
-
     <p id="seccion">Enlaces</p>
     <p id="txts">Aquí pongo algunos materiales que yo uso para la materia y que quizás les puedan ser utiles</p>
     <p id="titulo">Entornos de programación usados</p>
