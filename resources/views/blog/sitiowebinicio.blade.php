@@ -19,13 +19,13 @@
             padding-top: 10px;
             background-color: rgb(28, 0, 134);
         }
-        #navegador {
+        #Navegador {
             float: top;
             font-family: "Permanent Marker";
             text-align: center;
             background-color: rgb(217, 0, 0);
         }
-        #opcinavg {
+        #OpciNavg {
             background-color: rgb(217, 0, 0);
             color: white;
             text-decoration: none;
@@ -36,7 +36,7 @@
             transition-timing-function: ease-in-out;
             transition: 0.8s;
         }
-        #opcinavg:hover {
+        #OpciNavg:hover {
             background-color: rgb(255, 133, 133);
             color: black;
             text-decoration: none;
@@ -47,14 +47,14 @@
             transition-timing-function: ease-in-out;
             transition: 0.4s;
         }
-        #titulo {
+        #Titulo {
             text-align: center;
             font-family: "Allerta Stencil";
             font-size: 48px;
             font-weight: bolder;
             color: white;
         }
-        #seccion {
+        #Seccion {
             text-align: center;
             font-size: 40px;
             font-family: "Ramabhadra";
@@ -66,7 +66,7 @@
             width: 80%;
             background-color: rgba(255, 40, 0, 0.48);
         }
-        #txt {
+        #Txt {
             text-align: center;
             margin-left: auto;
             margin-right: auto;
@@ -76,7 +76,7 @@
             font-size: 20px;
             color: white;
         }
-        #enlace {
+        #Enlace {
             font-weight: bold;
             font-family: "Saira";
             font-size: 20px;
@@ -84,20 +84,20 @@
         }
     </style>
         <header>
-            <p id="titulo">Salon de la programación</p>
-            <div id="navegador">
-                <a id="opcinavg" href="sitiowebinicio">Inicio</a>
-                <a id="opcinavg" href="sitiowebact">Actualizaciones</a>
-                <a id="opcinavg" href="">Experimentación</a>
-                <a id="opcinavg" href="sitiowebenlaces">Enlaces</a>
-                <a id="opcinavg" href="">Otros</a>
+            <p id="Titulo">Salon de la programación</p>
+            <div id="Navegador">
+                <a id="OpciNavg" href="sitiowebinicio">Inicio</a>
+                <a id="OpciNavg" href="sitiowebact">Actualizaciones</a>
+                <a id="OpciNavg" href="">Experimentación</a>
+                <a id="OpciNavg" href="sitiowebenlaces">Enlaces</a>
+                <a id="OpciNavg" href="">Otros</a>
             </div>
         </header>
-    <p id="seccion">Inicio</p>
-        <p id="txt">
+    <p id="Seccion">Inicio</p>
+        <p id="Txt">
             Sean ustedes bienvenidos a mi sitio web, en este sitio doy a conocer algunas cosas sobre el diseño, ademas de alguna que otra recomendación que quizás les pueda servir de utilidad.
         </p>
-        <p id="txt">
+        <p id="Txt">
             Estudiante en programación de software en la Universidad Politécnica de Tecamac, comúnmente
             envió archivos via github y puedo hacer una que otra experimentación que puedo mostrar, me enfoco en HTML, CSS, JS, Java, C# / .NET, PHP, SQL y JQuery.
         </p>
