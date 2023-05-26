@@ -16,20 +16,20 @@
             background-color: #b01200;
             opacity: 1;
             background-size: 60px 60px;
-            background-image:  repeating-linear-gradient(to right, #050000, #050000 3px, #b01200 3px, #b01200);
+            background-image: repeating-linear-gradient(to right, #050000, #050000 3px, #b01200 3px, #b01200);
         }
         header {
             padding-top: 10px;
-            background-color: rgb(28, 0, 134);
+            background-color: rgba(28, 0, 134);
         }
         #Navegador {
             float: top;
             font-family: "Permanent Marker";
             text-align: center;
-            background-color: rgb(217, 0, 0);
+            background-color: rgba(217, 0, 0);
         }
         #OpciNavg {
-            background-color: rgb(217, 0, 0);
+            background-color: rgba(217, 0, 0);
             color: white;
             text-decoration: none;
             text-align: center;
@@ -40,7 +40,7 @@
             transition: 0.8s;
         }
         #OpciNavg:hover {
-            background-color: rgb(255, 133, 133);
+            background-color: rgba(255, 133, 133);
             color: black;
             text-decoration: none;
             text-align: center;
