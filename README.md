@@ -1,9 +1,5 @@
 # Pagina web utilizando laravel
 
-<!----Descripción---->
-Aquí tengo la página web tipo blog que hice para una asignación de examen, fue creada en php (con su variante de formato Blade) con el uso del formato HTML con CSS, para poder mostrarla se instaló Laravel y use Heroku para poder pasarla vía repositorio (aunque este último paso fue muy complicado que hasta tuve que reinstalar composer y laravel para poder hacerlo correctamente, dos veces de hecho debido a que no habían ciertos archivos en las carpetas vendor y dicha carpeta no tenía que ser incluida en el repositorio).
-<!----Separador de la descripción ---->
-
 <!----Notas---->
 **Notas:**
 
@@ -12,6 +8,8 @@ Aquí tengo la página web tipo blog que hice para una asignación de examen, fu
 **- Nos pidieron hacer un mínimo de tres páginas para poder hacer examen por eso las únicas secciones que funcionan son el inicio, las actualizaciones y los enlaces (pensaba hacer otra página que iba a ser la de experimentación donde pondria algunos programas pero no pude por tiempo).**
 
 **- El nombre fue creado por invento mío, fue algo improvisado.**
+
+**- Fue muy complicado el pasar el repositorio por medio de heroku tuve que reinstalar composer y laravel para poder hacerlo correctamente, dos veces de hecho debido a que no habían ciertos archivos en las carpetas vendor y dicha carpeta no tenía que ser incluida en el repositorio.**
 
 **- El enlace ya no tiene conexion ya que de momento no he podido ingresar a la cuenta de heroku, trate de hacer otra cuenta pero desde hace ya un tiempo dicho sitio ya no permite crear apps de forma gratis, todavia pueden descargar el codigo fuente y usar XAMPP.**
 <!----Separador de las notas---->
