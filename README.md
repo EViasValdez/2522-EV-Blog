@@ -9,9 +9,9 @@
 
 **- El nombre fue creado por invento mío, fue algo improvisado.**
 
-**- Fue muy complicado el pasar el repositorio por medio de heroku tuve que reinstalar composer y laravel para poder hacerlo correctamente, dos veces de hecho debido a que no habían ciertos archivos en las carpetas vendor y dicha carpeta no tenía que ser incluida en el repositorio.**
+**- Fue muy complicado el pasar el repositorio por medio de heroku tuve que reinstalar Composer y Laravel para poder hacerlo correctamente, dos veces de hecho debido a que no habían ciertos archivos en las carpetas vendor y dicha carpeta no tenía que ser incluida en el repositorio.**
 
-**- Desde Marzo de 2023 el enlace ya no tiene conexion ya que de momento no he podido ingresar a la cuenta de heroku, trate de hacer otra cuenta pero desde hace ya un tiempo dicho sitio ya no permite crear apps de forma gratis, todavia pueden descargar el codigo fuente y usar XAMPP.**
+**- Desde Marzo de 2023 el enlace ya no tiene conexión ya que de momento no he podido ingresar a la cuenta de heroku, trate de hacer otra cuenta pero desde hace ya un tiempo dicho sitio ya no permite crear apps de forma gratis, todavia pueden descargar el codigo fuente y usar XAMPP.**
 <!----Separador de las notas---->
 
 <!----Separador---->
