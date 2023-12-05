@@ -5,7 +5,7 @@
 
 **- A diferencia de otros repositorios no pondré cada archivo que va con este repositorio debido a que son muchos y podría ser demasiado.**
 
-**- Nos pidieron hacer un mínimo de tres páginas para poder hacer examen por eso las únicas secciones que funcionan son el inicio, las actualizaciones y los enlaces (pensaba hacer otra página que iba a ser la de experimentación donde pondria algunos programas pero no pude por tiempo).**
+**- Nos pidieron hacer un mínimo de tres páginas para poder hacer examen por eso las únicas secciones que funcionan son el inicio, las actualizaciones y los enlaces (pensaba hacer otra página que iba a ser la de experimentación donde pondría algunos programas pero no pude por tiempo).**
 
 **- El nombre fue creado por invento mío, fue algo improvisado.**
 
@@ -15,7 +15,7 @@
 <!----Separador de las notas---->
 
 <!----Separador---->
-Pueden ver la pagina a traves de este enlace
+Pueden ver la página a través de este enlace
 [https://blog2522.herokuapp.com/sitiowebinicio](https://blog2522.herokuapp.com/sitiowebinicio)
 <!----Separador---->
 
