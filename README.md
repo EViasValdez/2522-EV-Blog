@@ -11,7 +11,7 @@
 
 **- Fue muy complicado pasar el repositorio por medio de Heroku tuve que reinstalar Composer y Laravel para poder hacerlo correctamente, dos veces de hecho debido a que no habían ciertos archivos en las carpetas vendor y dicha carpeta no tenía que ser incluida.**
 
-**- Desde Marzo de 2023 el enlace ya no tiene conexión, aunque ya recupere mi cuenta de Heroku desde hace tiempo ya no se permite realizar deploys nuevos por eso continua sin funcionar el enlace.**
+**- Desde Marzo de 2023 el enlace ya no tiene conexión, aunque ya recupere mi cuenta de Heroku desde hace tiempo ya no se permite realizar deploys nuevos de manera gratuita por eso esta sin funcionar el enlace.**
 <!----Separador de las notas---->
 
 <!----Separador---->
