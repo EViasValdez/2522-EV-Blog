@@ -15,7 +15,7 @@
 <!----Separador de las notas---->
 
 <!----Separador---->
-Pueden ver la página a través de este enlace
+Pueden ver la página a través de este enlace (inactiva)
 [https://blog2522.herokuapp.com/sitiowebinicio](https://blog2522.herokuapp.com/sitiowebinicio)
 <!----Separador---->
 
