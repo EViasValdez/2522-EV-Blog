@@ -3,15 +3,13 @@
 <!----Notas---->
 **Notas:**
 
-**- A diferencia de otros repositorios no pondré cada archivo que va con este repositorio debido a que son muchos y podría ser demasiado.**
-
 **- Nos pidieron hacer un mínimo de tres páginas para poder hacer examen por eso las únicas secciones que funcionan son el inicio, las actualizaciones y los enlaces (pensaba hacer otra página que iba a ser la de experimentación donde pondría algunos programas pero no pude por tiempo).**
 
 **- El nombre fue creado por invento mío, fue algo improvisado.**
 
 **- Fue muy complicado pasar el repositorio por medio de Heroku tuve que reinstalar Composer y Laravel para poder hacerlo correctamente, dos veces de hecho debido a que no habían ciertos archivos en las carpetas vendor y dicha carpeta no tenía que ser necesariamente incluida.**
 
-**- Desde Marzo de 2023 el enlace ya no tiene conexión, aunque ya recupere mi cuenta de Heroku desde hace tiempo ya no se permite realizar deploys nuevos de manera gratuita por eso esta sin funcionar el enlace.**
+**- Desde Marzo de 2023 el enlace ya no tiene conexión, aunque ya recupere mi cuenta de Heroku desde hace tiempo ya no se permite realizar deploys nuevos de manera gratuita por eso esta sin funcionar el enlace, actualmente se puede ver en el formato raiz (HTML).**
 <!----Separador de las notas---->
 
 <!----Separador---->
