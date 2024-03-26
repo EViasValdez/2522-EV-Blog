@@ -1,27 +1,28 @@
 <?php
-    class animal{
-        public $nombre = "Gato ";
-        public $especie = "Felino ";
-        public $tipo = "Domestico ";
-        public $color = "Gris ";
-        public $alimentacion = "Variada ";
-            function retornar(){
-                return $this->nombre;
-                return $this->especie;
-                return $this->tipo;
-                return $this->color;
-                return $this->alimentacion;
-            }
-            function imprimir(){
-                for ($a = 0; $a < 100; $a++) {
-                    echo $this->nombre;
-                    echo $this->especie;
-                    echo $this->tipo;
-                    echo $this->color;
-                    echo $this->alimentacion;
-              }
-            }
+    class animal {
+        public $Nombre = "Gato ";
+        public $Especie = "Felino ";
+        public $Tipo = "Domestico ";
+        public $Color = "Gris ";
+        public $Alimentacion = "Variada ";
+        function Retornar() {
+            return $this->Nombre;
+            return $this->Especie;
+            return $this->Tipo;
+            return $this->Color;
+            return $this->Alimentacion;
+        }
+        function Imprimir() {
+            for ($a = 0; $a < 100; $a++)
+            {
+                echo $this->Nombre;
+                echo $this->Especie;
+                echo $this->Tipo;
+                echo $this->Color;
+                echo $this->Alimentacion;
+          }
+        }
     }
     $animalc = new animal();
-    $animalc->imprimir();
+    $animalc->Imprimir();
 ?>

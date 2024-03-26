@@ -1,58 +1,59 @@
 <?php
-    class animalDomestico{
-        public $especie;
-        public $color;
-        public $accion;
-        public $tipo;
-        public function gato(){
-            return $this->especie = "Felino";
-            return $this->color = "Negro claro";
-            return $this->accion = "Maullar";
-            return $this->tipo = "Gris";
+    class AnimalDomestico {
+        public $Especie;
+        public $Color;
+        public $Accion;
+        public $Tipo;
+
+        public function Gato() {
+            return $this->Especie = "Felino";
+            return $this->Color = "Negro claro";
+            return $this->Accion = "Maullar";
+            return $this->Tipo = "Gris";
         }
-        public function perro(){
-            return $this->especie = "Canino";
-            return $this->color = "Blanco";
-            return $this->accion = "Ladrar";
-            return $this->tipo = "Beagle";
+        public function Perro() {
+            return $this->Especie = "Canino";
+            return $this->Color = "Blanco";
+            return $this->Accion = "Ladrar";
+            return $this->Tipo = "Beagle";
         }
     }
-    class veiculo{
-      public $color;
-      public $marca;
-      public $modelo;
-      public function moto(){
-        return $this->color = "Blanco";
-        return $this->marca = "Italika";
-        return $this->modelo = "2020";
+    class Veiculo {
+      public $Color;
+      public $Marca;
+      public $Modelo;
+
+      public function Moto() {
+        return $this->Color = "Blanco";
+        return $this->Marca = "Italika";
+        return $this->Modelo = "2020";
       }
-      public function auto(){
-        return $this->color = "Verde";
-        return $this->marca = "Volkswagen";
-        return $this->modelo ="2021";
+      public function Auto() {
+        return $this->Color = "Verde";
+        return $this->Marca = "Volkswagen";
+        return $this->Modelo ="2021";
       }
     }
-    class dispositivoDigital{
-      public $proposito;
-      public $modelo;
-      public $color;
-      public $marca;
-      public $tipo;
-
-      public function camara(){
-        return $this->proposito = "Fotografia";
-        return $this->modelo = "C80";
-        return $this->color = "Azul";
-        return $this->marca = "Canon";
-        return $this->tipo = "Semiprofesional";
+    class DispositivoDigital {
+      public $Proposito;
+      public $Modelo;
+      public $Color;
+      public $Marca;
+      public $Tipo;
+      
+      public function Camara() {
+        return $this->Proposito = "Fotografia";
+        return $this->Modelo = "C80";
+        return $this->Color = "Azul";
+        return $this->Marca = "Canon";
+        return $this->Tipo = "Semiprofesional";
       }
-
-      public function celular(){
-        return $this->proposito = "Telefonia celular";
-        return $this->modelo = "R12";
-        return $this->color = "Negro";
-        return $this->marca = "Samsung";
-        return $this->tipo = "Una sola camara";
+      public function Celular() {
+        return $this->Proposito = "Telefonia celular";
+        return $this->Modelo = "R12";
+        return $this->Color = "Negro";
+        return $this->Marca = "Samsung";
+        return $this->Tipo = "Una sola camara";
       }
     }
 ?>
