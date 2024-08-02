@@ -24,7 +24,7 @@ Las imágenes y fuentes utilizadas para este sitio pertenecen a sus respectivos 
 
 Material usado:
 - Fuentes de letra | Google Fonts
-- Imágenes de fondo | Varios sitios de imágenes fondo para sitios web.
+- Imágenes de fondo | Varios sitios de imágenes de fondo para sitios web.
 - Imágenes de páginas de enlaces | Respectivos autores
 - Fondo de patrones | CSS Pattern Generator
 <!----Separador---->
