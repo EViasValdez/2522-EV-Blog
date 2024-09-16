@@ -1,4 +1,4 @@
-# Pagina web tipo blog utilizando laravel
+# Pagina web tipo blog utilizando Laravel
 
 <!----Notas---->
 **Notas:**
