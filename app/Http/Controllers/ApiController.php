@@ -7,7 +7,8 @@ use Illuminate\Http\Request;
 class ApiController extends Controller
 {
 
-    public function paginainicio(){
+    public function paginainicio()
+    {
         return view('paginainicio');
     }
     public function getPersonajes()
@@ -16,6 +17,7 @@ class ApiController extends Controller
         $response = $cliente->request('GET', 'https://rickandmortyapi.com/api/character/?page=1');
         $resultado = json_decode($response->getBody()->getContents(), true);
         $personajes = [];
+        
         foreach ($resultado['results'] as $personaje) {
             $personajes[] = [
                 'id' => $personaje['id'],
