@@ -5,6 +5,7 @@
         public $Tipo = "Domestico ";
         public $Color = "Gris ";
         public $Alimentacion = "Variada ";
+        
         function Retornar() {
             return $this->Nombre;
             return $this->Especie;
