@@ -11,7 +11,7 @@
 
 **- Desde Marzo de 2023 el enlace ya no tiene conexión, aunque ya recupere mi cuenta de Heroku desde hace tiempo dicho sitio ya no permite realizar deploys nuevos de manera gratuita.**
 
-**- El programa actualmente se encuentra disponible en el formato original (HTML, JS y CSS).**
+**- El programa se encuentra disponible en el formato original (HTML, JS y CSS).**
 <!----Separador de las notas---->
 
 <!----Separador---->
