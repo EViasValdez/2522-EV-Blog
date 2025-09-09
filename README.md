@@ -7,7 +7,7 @@
 
 **- El nombre fue creado por invento mío, fue algo improvisado.**
 
-**- Fue muy complicado pasar el repositorio por medio de Heroku tuve que reinstalar Composer y Laravel para que funcionara correctamente, dos veces debido a que no habían ciertos archivos en las carpetas vendor y dicha carpeta no tenía que ser necesariamente incluida.**
+**- Fue muy complicado pasar el repositorio a Heroku tuve que reinstalar Composer y Laravel para que funcionara correctamente, dos veces debido a que no habían ciertos archivos en las carpetas vendor y dicha carpeta no tenía que ser necesariamente incluida.**
 
 **- Desde Marzo de 2023 el enlace ya no tiene conexión, aunque ya recupere mi cuenta de Heroku desde hace tiempo dicho sitio ya no permite realizar deploys nuevos de manera gratuita.**
 
