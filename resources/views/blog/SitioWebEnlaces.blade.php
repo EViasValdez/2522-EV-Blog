@@ -187,11 +187,11 @@
     <a id="Enlace" href="https://www.apachefriends.org/download.html">https://www.apachefriends.org/download.html</a>
     <p id="Txt">Laravel</p>
     <img id="LaravelLogo" src="https://logospng.org/download/laravel/logo-laravel-1024.png">
-    <p id="Txts">Este también lo uso mas en estos dias</p>
+    <p id="Txts">Este también lo uso mas en estos días</p>
     <a id="Enlace" href="https://laravel.com/docs/4.2">https://laravel.com/docs/4.2</a>
     <p id="Txt">Composer</p>
     <img id="CompLogo" src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-png-transparent.png">
-    <p id="Txts">Lo necesitaran para instalar laravel</p>
+    <p id="Txts">Lo necesitaran para instalar Laravel</p>
     <a id="Enlace" href="https://getcomposer.org/download/">https://getcomposer.org/download/</a>
     <p id="Txt">JQuery</p>
     <img id="JQueLogo" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg">
