@@ -5,7 +5,7 @@
 
 **- Nos pidieron hacer un mínimo de tres páginas para poder hacer examen por eso las únicas secciones que funcionan son el inicio, las actualizaciones y los enlaces (pensaba hacer otra página que iba a ser la de experimentación donde pondría algunos programas pero no pude por tiempo).**
 
-**- El nombre fue creado por invento mío, fue algo improvisado.**
+**- El nombre fue creado de manera improvisada.**
 
 **- Pasar el repositorio a Heroku fue algo difícil tuve que reinstalar dos veces Composer y Laravel para que funcionara correctamente, debido a que no habían ciertos archivos en la carpeta vendor y dicha carpeta no tenía que ser incluida.**
 
