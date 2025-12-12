@@ -9,7 +9,7 @@
 
 **- Pasar el repositorio a Heroku fue algo difícil tuve que reinstalar dos veces Composer y Laravel para que funcionara correctamente, debido a que no habían ciertos archivos en la carpeta vendor y dicha carpeta no tenía que ser incluida.**
 
-**- Desde Marzo de 2023 el enlace  a la pagina ya no tiene conexión, aunque ya recupere mi cuenta de Heroku desde hace tiempo dicho sitio ya no permite realizar deploys nuevos de manera gratuita.**
+**- Desde Marzo de 2023 el enlace a la pagina ya no tiene conexión, aunque ya recupere mi cuenta de Heroku desde hace tiempo dicho sitio ya no permite realizar deploys nuevos de manera gratuita.**
 
 **- El programa se encuentra disponible en el formato original (HTML, JS y CSS).**
 <!----Separador de las notas---->
