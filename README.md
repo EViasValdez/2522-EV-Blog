@@ -1,7 +1,7 @@
 # Pagina web tipo blog utilizando Laravel
 
 <!----Descripción---->
-Por ser escrita.
+Este fue un proyecto el cual nos pidieron hacer un mínimo de tres páginas para poder hacer examen por eso las únicas secciones que funcionan son el inicio, las actualizaciones y los enlaces.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
