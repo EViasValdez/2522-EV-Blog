@@ -13,7 +13,7 @@ Este fue un proyecto el cual nos pidieron hacer un mínimo de tres páginas para
 <!----Separador de las notas---->
 
 <!----Separador---->
-Pueden ver la página a través de este enlace (inactiva)
+Pueden ver la página a través de este enlace (sin actividad)
 [https://blog2522.herokuapp.com/sitiowebinicio](https://blog2522.herokuapp.com/sitiowebinicio)
 <!----Separador---->
 
