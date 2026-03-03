@@ -2,7 +2,7 @@
 
 <!----Descripción---->
 Este fue un proyecto el cual nos pidieron hacer un mínimo de tres páginas para poder hacer examen por eso las únicas secciones que funcionan son el inicio, las actualizaciones y los enlaces, todo fue desarrollado en Laravel y originalmente publicado en Heroku.
-<!----Separador de la descripción ---->
+<!----Separador de la descripción---->
 
 <!----Notas---->
 **Notas:**
