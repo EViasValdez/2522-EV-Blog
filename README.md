@@ -8,7 +8,7 @@ Este fue un proyecto el cual nos pidieron hacer un mínimo de tres páginas para
 **Notas:**
 **- Desde Marzo de 2023 el enlace a la pagina ya no funciona y aunque tengo de nuevo acceso mi cuenta de Heroku desde hace un tiempo dicho sitio ya no permite realizar deploys nuevos de manera gratuita.**
 
-**- El programa se encuentra disponible en el formato original que utilizaba los formatos HTML, JS y CSS.**
+**- El programa se encuentra disponible en los formatos HTML, JS y CSS.**
 <!----Separador de las notas---->
 
 <!----Separador---->
