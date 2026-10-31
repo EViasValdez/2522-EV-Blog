@@ -17,7 +17,7 @@ Pueden ver la página a través de este enlace (inactiva)
 <!----Separador---->
 
 <!----Separador---->
-Las imágenes y fuentes utilizadas para este sitio pertenecen a sus respectivos dueños y/o autores.
+Las imágenes y fuentes utilizadas para este sitio le pertenecen a sus respectivos dueños y/o autores.
 
 Material usado:
 - Fuentes de letra | Google Fonts.
